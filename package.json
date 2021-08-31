@@ -24,7 +24,7 @@
     "@truffle/hdwallet-provider": "^1.0.43",
     "@uniswap/lib": "^1.1.2",
     "@uniswap/v2-core": "^1.0.1",
-    "@uniswap/v2-periphery": "^1.1.0-beta.0"
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
     "braces": "^3.0.2",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
